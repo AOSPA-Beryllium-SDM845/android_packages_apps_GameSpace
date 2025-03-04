@@ -37,7 +37,6 @@
     <string name="heads_up_title">Plovoucí oznámení</string>
     <string name="fps_Info_title">Informace o FPS</string>
     <string name="stay_awake_title">Nevypínat obrazovku</string>
-    <string name="lock_gesture_title">Gesto zámku</string>
     <string name="ringer_mode_title">Režim vyzvánění</string>
     <string name="ringer_mode_silent">Ticho</string>
     <string name="ringer_mode_vibrate">Vibrace</string>

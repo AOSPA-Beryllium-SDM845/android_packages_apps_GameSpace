@@ -37,7 +37,6 @@
     <string name="heads_up_title">Thông báo nổi</string>
     <string name="fps_Info_title">Thông tin FPS</string>
     <string name="stay_awake_title">Không khóa màn hình</string>
-    <string name="lock_gesture_title">Khóa cử chỉ</string>
     <string name="ringer_mode_title">Chế độ chuông</string>
     <string name="ringer_mode_silent">Im lặng</string>
     <string name="ringer_mode_vibrate">Rung</string>

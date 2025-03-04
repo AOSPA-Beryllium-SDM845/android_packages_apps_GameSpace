@@ -37,7 +37,6 @@
     <string name="heads_up_title">彈出通知</string>
     <string name="fps_Info_title">幀數資訊</string>
     <string name="stay_awake_title">螢幕保持開啟</string>
-    <string name="lock_gesture_title">手勢鎖定</string>
     <string name="ringer_mode_title">鈴聲模式</string>
     <string name="ringer_mode_silent">靜音</string>
     <string name="ringer_mode_vibrate">震動</string>

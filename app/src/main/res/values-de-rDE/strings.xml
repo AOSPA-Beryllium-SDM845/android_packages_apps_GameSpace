@@ -37,7 +37,6 @@
     <string name="heads_up_title">Pop-Up</string>
     <string name="fps_Info_title">FPS-Informationen</string>
     <string name="stay_awake_title">Aktiv lassen</string>
-    <string name="lock_gesture_title">Geste sperren</string>
     <string name="ringer_mode_title">Klingel-Modus</string>
     <string name="ringer_mode_silent">Lautlos</string>
     <string name="ringer_mode_vibrate">Vibrieren</string>

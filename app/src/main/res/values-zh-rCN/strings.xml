@@ -37,7 +37,6 @@
     <string name="heads_up_title">浮动通知</string>
     <string name="fps_Info_title">FPS 信息</string>
     <string name="stay_awake_title">保持唤醒</string>
-    <string name="lock_gesture_title">锁定手势</string>
     <string name="ringer_mode_title">响铃模式</string>
     <string name="ringer_mode_silent">静音</string>
     <string name="ringer_mode_vibrate">振动</string>
