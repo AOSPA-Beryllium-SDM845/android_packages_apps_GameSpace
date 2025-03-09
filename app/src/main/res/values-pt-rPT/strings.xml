@@ -45,9 +45,6 @@
     <string name="suppress_fullscreen_intent_summary">Impedir que eventos em ecrã completo, como chamadas recebidas, apareçam durante o jogo</string>
     <string name="per_app_title">Configurar jogo</string>
     <string name="per_app_mode_title">Modo preferido</string>
-    <string name="per_app_angle_title">Usar ANGLE (experimental)</string>
-    <string name="per_app_angle_summary">A usar o renderizador ANGLE em vez de controladores GLES nativos.\nAVISO!! Pode distorcer os gráficos do jogo, use com cuidado!</string>
-    <string name="cant_find_angle_pkg">O ANGLE não está disponível no seu sistema</string>
     <string name="per_app_unregister">Remover %1$s da biblioteca</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Valor: <xliff:g id="v">%s</xliff:g></string>

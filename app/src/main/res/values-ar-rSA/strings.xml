@@ -45,9 +45,6 @@
     <string name="suppress_fullscreen_intent_summary">منع أحداث ملء الشاشة مثل المكالمات الواردة من الظهور أثناء اللعبة</string>
     <string name="per_app_title">تكوين اللعبة</string>
     <string name="per_app_mode_title">الوضع المفضل</string>
-    <string name="per_app_angle_title">استخدام ANGLE (تجريبي)</string>
-    <string name="per_app_angle_summary">استخدام جهاز عرض ANGLE بدلاً من برامج تشغيل GLES الأصلية. \n تحذير!! قد يكسر رسومات اللعبة، استخدم بحذر!</string>
-    <string name="cant_find_angle_pkg">ANGLE غير متوفر على النظام الخاص بك</string>
     <string name="per_app_unregister">إزالة %1$s من المكتبة</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">القيمة: <xliff:g id="v">%s</xliff:g></string>

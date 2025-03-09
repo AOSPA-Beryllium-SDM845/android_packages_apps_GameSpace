@@ -45,9 +45,6 @@
     <string name="suppress_fullscreen_intent_summary">Zabránit zobrazování událostí na celé obrazovce, jako jsou příchozí hovory</string>
     <string name="per_app_title">Konfigurace hry</string>
     <string name="per_app_mode_title">Preferovaný režim</string>
-    <string name="per_app_angle_title">Použít ANGLE (experimentální)</string>
-    <string name="per_app_angle_summary">Použití vykreslovače ANGLE místo nativních ovladačů GLES.\nPOZOR!! Může narušit grafiku při hraní, používejte s opatrností!</string>
-    <string name="cant_find_angle_pkg">Ve vašem systému není ANGLE k dispozici</string>
     <string name="per_app_unregister">Odebrat %1$s z knihovny</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Hodnota: <xliff:g id="v">%s</xliff:g></string>

@@ -45,9 +45,6 @@
     <string name="suppress_fullscreen_intent_summary">Oyun içindeyken gelen aramalar gibi tam ekran etkinliklerinin görünmesini engelleyin</string>
     <string name="per_app_title">Oyunu yapılandır</string>
     <string name="per_app_mode_title">Tercih edilen mod</string>
-    <string name="per_app_angle_title">ANGLE kullan (deneysel)</string>
-    <string name="per_app_angle_summary">Yerel GLES sürücüleri yerine ANGLE oluşturucu kullan.\nUYARI!! Oyun grafiklerini bozabilir, dikkatli kullanın!</string>
-    <string name="cant_find_angle_pkg">ANGLE sisteminizde mevcut değil</string>
     <string name="per_app_unregister">%1$s arşivden kaldır</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Değer: <xliff:g id="v">%s</xliff:g></string>

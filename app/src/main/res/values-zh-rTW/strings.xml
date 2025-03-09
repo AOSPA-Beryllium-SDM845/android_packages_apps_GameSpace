@@ -45,9 +45,6 @@
     <string name="suppress_fullscreen_intent_summary">防止如電話等的應用程式彈出全螢幕畫面</string>
     <string name="per_app_title">遊戲選項</string>
     <string name="per_app_mode_title">偏好模式</string>
-    <string name="per_app_angle_title">使用 ANGLE （實驗性功能）</string>
-    <string name="per_app_angle_summary">使用 ANGLE 渲染畫面而非原生的 GLES 驅動。\n警告！遊戲畫面可能出現破圖等現象，請謹慎使用。</string>
-    <string name="cant_find_angle_pkg">您的系統不支援 ANGLE</string>
     <string name="per_app_unregister">從遊戲庫中移除 %1$s</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">數值： <xliff:g id="v">%s</xliff:g></string>

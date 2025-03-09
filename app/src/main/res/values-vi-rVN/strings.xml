@@ -45,9 +45,6 @@
     <string name="suppress_fullscreen_intent_summary">Ngăn các sự kiện toàn màn hình như cuộc gọi đến xuất hiện khi ở trong trò chơi</string>
     <string name="per_app_title">Định cấu hình trò chơi</string>
     <string name="per_app_mode_title">Chế độ ưu tiên</string>
-    <string name="per_app_angle_title">Sử dụng ANGLE (thử nghiệm)</string>
-    <string name="per_app_angle_summary">Sử dụng trình kết xuất ANGLE thay vì trình điều khiển GLES gốc.\nCẢNH BÁO!! Có thể tạo ra bug đồ họa trò chơi, hãy sử dụng một cách thận trọng!</string>
-    <string name="cant_find_angle_pkg">ANGLE không có sẵn trên hệ thống của bạn</string>
     <string name="per_app_unregister">Xóa %1$s khỏi thư viện</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">Giá trị: <xliff:g id="v">%s</xliff:g></string>

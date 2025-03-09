@@ -45,9 +45,6 @@
     <string name="suppress_fullscreen_intent_summary">防止在游戏中出现来电等全屏事件</string>
     <string name="per_app_title">配置游戏</string>
     <string name="per_app_mode_title">首选模式</string>
-    <string name="per_app_angle_title">使用 ANGLE (实验性)</string>
-    <string name="per_app_angle_summary">使用 ANGLE 渲染器而不是本机的 GLES 驱动器。\n警告!! 可能会破坏游戏图形, 请谨慎使用!</string>
-    <string name="cant_find_angle_pkg">ANGLE 在您的系统上不可用</string>
     <string name="per_app_unregister">从库中删除 %1$s</string>
     <!-- Custom seekbar -->
     <string name="custom_seekbar_value">值: <xliff:g id="v">%s</xliff:g></string>
